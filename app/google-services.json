@@ -1,0 +1,72 @@
+{
+  "project_info": {
+    "project_number": "432934819080",
+    "firebase_url": "https://lifeosca-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lifeosca",
+    "storage_bucket": "lifeosca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432934819080:android:919f6a7b8f1a2a56bcc8bd",
+        "android_client_info": {
+          "package_name": "com.lifeos.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432934819080-2eos3fjqr8dl6grgv0udn8fnjamel9ha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lifeos.com",
+            "certificate_hash": "dd85844045e46d9aadb32315e11f080055599a8f"
+          }
+        },
+        {
+          "client_id": "432934819080-3r9e3jbs9u7cpgirjguho1rubtrqu3go.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lifeos.com",
+            "certificate_hash": "0a4410970b2ee919221671ea3b51f17fa9fb7069"
+          }
+        },
+        {
+          "client_id": "432934819080-hbcfc7vjc9pg8h121omb4jeh4ocbqgks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lifeos.com",
+            "certificate_hash": "91517fb51676501f791986ca28ef3c342bd8fd82"
+          }
+        },
+        {
+          "client_id": "432934819080-v9r8sb7525ob2gin168nkbe4gjp4n92j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lifeos.com",
+            "certificate_hash": "13cb05c3f3f9002937883760c6acc309c2eb3a55"
+          }
+        },
+        {
+          "client_id": "432934819080-jn72ep6smqj8r4q46jj1gjqchepi91ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzHCPmTOmkFV3i7-TJ7E4GMBiA9NIIn3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432934819080-jn72ep6smqj8r4q46jj1gjqchepi91ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
